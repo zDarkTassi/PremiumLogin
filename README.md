@@ -10,7 +10,7 @@ AuthMe
 PremiumLock
 
 -> Please remove PremiumLock, it can affect our protection systems.
-The plugin with automatically block premium users who typed /premium for enable the function.
+PremiumLock will automatically block premium users who typed /premium for enable the function.
 
 # Note
 Download new versions always for bug fixes and more..
@@ -28,7 +28,7 @@ You can choose the AuthServer for do the autologin only into the specifed server
 
 # Features
 - Allow / Block Old legacy premium connections.
-- AutoLogin Premium Players On Join.
+- Instant AutoLogin Premium Players On Join.
 - Staff Log.
 - Set an auth server for autologin only in the specifed server.
 - Set a custom permission to use /premium.
