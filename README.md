@@ -35,6 +35,8 @@ You can choose the AuthServer for do the autologin only into the specifed server
 - /premium can be enabled and disabled.
 - Players which typed /premium will be locked and protected from sp players.
 - Safely.
+- Automatic skin detection.
+- Automatic UUID setup.
 
 # Bugs
 For report bugs please open a ticket in Issues. Thanks.
