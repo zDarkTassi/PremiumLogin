@@ -10,7 +10,7 @@ AuthMe
 PremiumLock
 
 -> Please remove PremiumLock, it can affect our protection systems.
-PremiumLock will automatically block premium users who typed /premium for enable the function.
+PremiumLogin will automatically block premium users who typed /premium for enable the function.
 
 # Note
 Download new versions always for bug fixes and more..
