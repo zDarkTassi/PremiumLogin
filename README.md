@@ -6,7 +6,7 @@ AuthMe
 
 -> This plugin needs AuthMe to work, type "bungeecord: true" into authme's config and spigot config.
 
-# Currently not supported.
+# Currently not supported:
 PremiumLock
 
 -> Please remove PremiumLock, it can affect our protection systems.
